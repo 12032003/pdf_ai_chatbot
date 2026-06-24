@@ -1,0 +1,6 @@
+groq
+pdfplumber
+chromadb
+sentence-transformers
+gradio
+numpy
